@@ -1,8 +1,3 @@
-type Perfil {
-  id: Int
-  nome: String
-}
-
 enum UsuarioStatus {
   ATIVO
   INATIVO
